@@ -12,6 +12,6 @@ Follow the contributing guide found [here](http://github.com/Chewsterchew/xboxdr
 
 ## Current Examples
 
-Game/Program | Author                                         | Info Page                            | Download (without Git) | Source
------------- | ---------------------------------------------- | ------------------------------------ | ---------------------- | ------
-Minecraft    | [Chewsterchew](http://github.com/Chewsterchew) | [Info Page](http://xboxdrv.chew.pro) | Soon!                  | Soon!
+Game/Program | Author                                         | Info Page                                               | Download (without Git)
+------------ | ---------------------------------------------- | ------------------------------------------------------- | ----------------------
+Minecraft    | [Chewsterchew](http://github.com/Chewsterchew) | [Info Page](http://xboxdrv.chew.pro/examples/Minecraft) | [Download](http://xboxdrv.chew.pro/examples/Minecraft.xboxdrv)

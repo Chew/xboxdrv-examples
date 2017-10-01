@@ -1,0 +1,32 @@
+# Version 1.0.0
+
+[xboxdrv]
+ui-clear=true
+trigger-as-button = true
+
+[ui-axismap]
+x1=KEY_A:KEY_D
+y1=KEY_W:KEY_S
+x2^dead:4000 = REL_X:750:-1
+y2^dead:4000 = REL_Y:750:-1
+
+[ui-buttonmap]
+a = KEY_SPACE
+b = KEY_LEFTSHIFT
+x = KEY_Q
+y = KEY_T
+lt = BTN_RIGHT
+rt = BTN_LEFT
+
+rb = rel:REL_WHEEL:-1:500
+lb = rel:REL_WHEEL:1:500
+
+[ui-buttonmap]
+du = rel:REL_WHEEL:-1:500
+dd = rel:REL_WHEEL:1:500
+
+[ui-buttonmap]
+start = KEY_E
+back  = KEY_ESC
+
+# EOF #
